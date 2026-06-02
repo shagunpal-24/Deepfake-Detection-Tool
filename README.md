@@ -45,20 +45,18 @@ streamlit run app.py
 - Cloud deployment
 
 ## Author
-Shagun Pal# Deepfake Detection Tool
+Shagun Pal
 
-## Setup
+## Screenshots
 
-1. Install dependencies:
-   pip install -r requirements.txt
+### Home Page
+![Home Page](Screenshots/Homepage.png)
 
-2. Train model:
-   python train.py
+### Upload Interface
+![Upload Interface](Screenshots/upload-interface.png)
 
-3. Run app:
-   streamlit run app.py
+### Real Image Detection
+![Real Image Detection](Screenshots/real-image-detection.png)
 
-## Features
-- Detect deepfake in images and videos
-- CNN + LSTM model
-- Simple UI using Streamlit
+### Fake Image Detection
+![Fake Image Detection](Screenshots/fake-image-detection.png)
