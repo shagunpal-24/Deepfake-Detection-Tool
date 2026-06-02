@@ -50,13 +50,13 @@ Shagun Pal
 ## Screenshots
 
 ### Home Page
-![Home Page](Screenshots/Homepage.png)
+![Home Page](Homepage.png)
 
 ### Upload Interface
-![Upload Interface](Screenshots/upload-interface.png)
+![Upload Interface](upload-interface.png)
 
 ### Real Image Detection
-![Real Image Detection](Screenshots/real-image-detection.png)
+![Real Image Detection](real-image-detection.png)
 
 ### Fake Image Detection
-![Fake Image Detection](Screenshots/fake-image-detection.png)
+![Fake Image Detection](fake-image-detection.png)
